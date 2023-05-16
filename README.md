@@ -60,8 +60,7 @@ python Chatwife_speech.py
 - [ ] 支持更多的语言模型
 
 ## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+本项目仅供大家学习参考，不可商业，否则后果完全由使用者承担！！！
 
 ## Acknowledgments
 
