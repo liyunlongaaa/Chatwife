@@ -3,35 +3,27 @@ A Chatgpt tool to chat with your wife (supports typing or talking) 一个和你�
 
 ## Getting Started (开始）
 
-### Prerequisites （准备工作）
+### Prerequisites （环境准备工作）
 
 ```
+git clone https://github.com/liyunlongaaa/Chatwife.git
+cd Chatwife
 conda create -n Chatwife python=3.9
 conda acitivate Chatwife
 pip install -r requirements.txt
 ```
+### 修改配置文件config.ini
+![avatar][![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/16780e53-d1d9-4f03-af78-6bbbf57cb613)]
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+### 和老婆文字聊天
 
 ```
-Give the example
+python Chatwife.py
 ```
 
-And repeat
+### 和老婆语音聊天
 
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
+python Chatwife_speech.py
 
 ### Break down into end to end tests
 
