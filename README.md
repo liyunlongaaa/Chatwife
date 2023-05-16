@@ -15,6 +15,10 @@ pip install -r requirements.txt
 ### 修改配置文件config.ini
 ![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/16780e53-d1d9-4f03-af78-6bbbf57cb613)
 
+### 下载语音识别模型
+[https://www.aliyundrive.com/s/VTYy4qHothh](https://www.aliyundrive.com/s/VTYy4qHothh)
+### 下载语音合成模型
+[https://www.aliyundrive.com/s/VTYy4qHothh](https://www.aliyundrive.com/s/PBCXR3XpDZS)
 ### 和老婆文字聊天
 
 ```
