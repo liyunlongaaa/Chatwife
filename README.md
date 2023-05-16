@@ -13,7 +13,7 @@ conda acitivate Chatwife
 pip install -r requirements.txt
 ```
 ### 修改配置文件config.ini
-[![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/16780e53-d1d9-4f03-af78-6bbbf57cb613)]
+![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/16780e53-d1d9-4f03-af78-6bbbf57cb613)
 
 ### 和老婆文字聊天
 
