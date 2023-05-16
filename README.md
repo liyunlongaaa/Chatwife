@@ -9,7 +9,7 @@ A Chatgpt tool to chat with your wife (supports typing or talking) 一个和你�
 git clone https://github.com/liyunlongaaa/Chatwife.git
 cd Chatwife
 conda create -n Chatwife python=3.9
-conda acitivate Chatwife
+conda activate Chatwife
 pip install -r requirements.txt
 ```
 ### 修改配置文件config.ini
