@@ -17,12 +17,14 @@ pip install -r requirements.txt
 
 ### 下载语音识别模型
 [https://www.aliyundrive.com/s/VTYy4qHothh](https://www.aliyundrive.com/s/VTYy4qHothh)
+
 下载完后把所有ASR\resources文件夹如图所示:
 ![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/292de701-52b3-4fd7-88f4-6ae07ab86baf)
 
 
 ### 下载语音合成模型
 [https://www.aliyundrive.com/s/VTYy4qHothh](https://www.aliyundrive.com/s/PBCXR3XpDZS)
+
 下载完后把所有文件放入TTS\文件夹如图所示:
 ![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/4aa8918a-0edd-4143-bdc4-ed35208bb2ab)
 
@@ -32,12 +34,16 @@ pip install -r requirements.txt
 python Chatwife.py
 ```
 ![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/7df19201-98df-45d0-8d9f-1d075c05127b)
+
 按0或1后回车Enter, 选择你老婆说话的语言
 ![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/bd53922e-eab7-42dc-845d-989878eff2da)
+
 之后选择你老婆的人设，我喜欢你老婆是大学生，所以选0后回车
 ![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/c363eb45-2da0-47e7-8c8d-2b4b691d4361)
+
 选择你老婆的声线，这里我喜欢御姐
 ![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/2dc37303-7d26-4903-a850-26812268ab25)
+
 之后取个名字或者加载以前的记忆，开始聊天
 ![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/d8044edd-8944-43d8-9160-14dc67e9cad3)
 
