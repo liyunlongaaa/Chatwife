@@ -25,10 +25,10 @@ device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 if device.type == "cuda":
     print("已开启GPU加速!")
 
-chinese_model_path = "./model/"
-chinese_config_path = "./model/cn_config.json"
-japanese_model_path = "./model/"
-japanese_config_path = "./model/jp_config.json"
+chinese_model_path = "./TTS/"
+chinese_config_path = "./TTS/cn_config.json"
+japanese_model_path = "./TTS/"
+japanese_config_path = "./TTS/jp_config.json"
 record_path = "./chat_record/"
 character_path = "./characters/"
 
@@ -125,7 +125,7 @@ if __name__ == "__main__":
         model_config = chinese_config_path
     elif model_id == 1:
         model_config = japanese_config_path
-    model_path = "./model/" + key + '/' + key + '.pth'
+    model_path = "./TTS/" + key + '/' + key + '.pth'
     #TTS model 
     hps_ms = utils.get_hparams_from_file(model_config)
     n_speakers = hps_ms.data.n_speakers if 'n_speakers' in hps_ms.data.keys() else 0

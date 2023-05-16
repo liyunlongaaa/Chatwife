@@ -79,7 +79,7 @@ def getModel(model_id):
     print(colored('注意：黄色声线需要配置 Azure API', 'yellow'))
     print('ID\t声线')
     model_info = None
-    with open("model/config.json", "r", encoding="utf-8") as f:
+    with open("TTS/config.json", "r", encoding="utf-8") as f:
         model_info = json.load(f)
 
     i = 0

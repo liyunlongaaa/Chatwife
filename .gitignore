@@ -1,0 +1,4 @@
+ASR/resources/*
+TTS/*
+config.ini
+input.wav
