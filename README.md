@@ -52,6 +52,7 @@ python Chatwife_speech.py
 
 
 ## TODO
+- [x] 支持语音输入
 - [ ] 打字和语音随时切换
 - [ ] 记忆优化
 - [ ] 支持更多的语言模型
