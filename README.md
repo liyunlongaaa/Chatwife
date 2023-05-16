@@ -20,7 +20,7 @@ pip install -r requirements.txt
 阿里云盘：[https://www.aliyundrive.com/s/VTYy4qHothh](https://www.aliyundrive.com/s/VTYy4qHothh) 
 
 下载完后把所有ASR\resources文件夹如图所示:
-![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/292de701-52b3-4fd7-88f4-6ae07ab86baf)
+![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/e795c846-34cc-4ed0-96f2-e273d870281d)
 
 
 ### 下载语音合成模型
