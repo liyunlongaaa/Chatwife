@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/4aa8918a-0edd-4143-bdc4-ed35208bb2ab)
 
 
-### 和老婆文字聊天
+### 和你老婆文字聊天
 
 ```
 python Chatwife.py
@@ -48,7 +48,7 @@ python Chatwife.py
 
 
 
-### 和老婆语音聊天
+### 和你老婆语音聊天
 
 ```
 python Chatwife_speech.py
