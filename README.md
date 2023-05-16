@@ -17,8 +17,15 @@ pip install -r requirements.txt
 
 ### 下载语音识别模型
 [https://www.aliyundrive.com/s/VTYy4qHothh](https://www.aliyundrive.com/s/VTYy4qHothh)
+下载完后把模型文件放入ASR\resources文件夹如图所示:
+![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/292de701-52b3-4fd7-88f4-6ae07ab86baf)
+
+
 ### 下载语音合成模型
 [https://www.aliyundrive.com/s/VTYy4qHothh](https://www.aliyundrive.com/s/PBCXR3XpDZS)
+下载完后把模型文件放入model\文件夹如图所示:
+![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/800c7802-46a9-4677-a783-5e46c1465d31)
+
 ### 和老婆文字聊天
 
 ```
