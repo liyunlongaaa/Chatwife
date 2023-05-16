@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ```
 python Chatwife.py
 ```
-![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/7df19201-98df-45d0-8d9f-1d075c05127b)
+![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/7df19201-98df-45d0-8d9f-1d075c05127b) <br>
 按0或1后回车Enter, 选择你老婆说话的语言
 
 
