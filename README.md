@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 ### 下载语音识别模型
 百度网盘：[https://pan.baidu.com/s/1XZAxtZ2u4bHpqly0o4p03w?pwd=d6wa](https://pan.baidu.com/s/1XZAxtZ2u4bHpqly0o4p03w?pwd=d6wa) 提取码：d6wa <br>
-；阿里云盘：[https://www.aliyundrive.com/s/VTYy4qHothh](https://www.aliyundrive.com/s/VTYy4qHothh) 
+[^_^]: 阿里云盘：[https://www.aliyundrive.com/s/VTYy4qHothh](https://www.aliyundrive.com/s/VTYy4qHothh) 
 
 下载完后把所有ASR\resources文件夹如图所示:
 ![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/e795c846-34cc-4ed0-96f2-e273d870281d)
@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 ### 下载语音合成模型
 百度网盘：[https://pan.baidu.com/s/1Qy7EQD_14RH8gyDI81Vxtw?pwd=76iv](https://pan.baidu.com/s/1Qy7EQD_14RH8gyDI81Vxtw?pwd=76iv) 提取码：76iv <br>
-；阿里云盘：[https://www.aliyundrive.com/s/VTYy4qHothh](https://www.aliyundrive.com/s/PBCXR3XpDZS) 
+[^_^]: 阿里云盘：[https://www.aliyundrive.com/s/VTYy4qHothh](https://www.aliyundrive.com/s/PBCXR3XpDZS) 
 
 下载完后把所有文件放入TTS\文件夹如图所示:
 ![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/4aa8918a-0edd-4143-bdc4-ed35208bb2ab)
