@@ -17,64 +17,44 @@ pip install -r requirements.txt
 
 ### 下载语音识别模型
 [https://www.aliyundrive.com/s/VTYy4qHothh](https://www.aliyundrive.com/s/VTYy4qHothh)
-下载完后把模型文件放入ASR\resources文件夹如图所示:
+下载完后把所有ASR\resources文件夹如图所示:
 ![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/292de701-52b3-4fd7-88f4-6ae07ab86baf)
 
 
 ### 下载语音合成模型
 [https://www.aliyundrive.com/s/VTYy4qHothh](https://www.aliyundrive.com/s/PBCXR3XpDZS)
-下载完后把模型文件放入model\文件夹如图所示:
-![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/800c7802-46a9-4677-a783-5e46c1465d31)
+下载完后把所有文件放入TTS\文件夹如图所示:
+![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/4aa8918a-0edd-4143-bdc4-ed35208bb2ab)
 
 ### 和老婆文字聊天
 
 ```
 python Chatwife.py
 ```
+![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/7df19201-98df-45d0-8d9f-1d075c05127b)
+按0或1后回车Enter, 选择你老婆说话的语言
+![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/bd53922e-eab7-42dc-845d-989878eff2da)
+之后选择你老婆的人设，我喜欢你老婆是大学生，所以选0后回车
+![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/c363eb45-2da0-47e7-8c8d-2b4b691d4361)
+选择你老婆的声线，这里我喜欢御姐
+![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/2dc37303-7d26-4903-a850-26812268ab25)
+之后取个名字或者加载以前的记忆，开始聊天
+![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/d8044edd-8944-43d8-9160-14dc67e9cad3)
+
+
 
 ### 和老婆语音聊天
 
+```
 python Chatwife_speech.py
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
 ```
-Give an example
-```
+步骤和上面一样，只是聊天方式变为：长按V说话，松开后则将语音发送给你老婆。 可按键盘左上角的ESC键结束聊天
 
-### And coding style tests
 
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+## TODO
+- [ ] 打字和语音随时切换
+- [ ] 记忆优化
+- [ ] 支持更多的语言模型
 
 ## License
 
@@ -82,6 +62,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* 非理性编程(bilibili)
