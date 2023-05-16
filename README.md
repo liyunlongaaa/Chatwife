@@ -16,17 +16,20 @@ pip install -r requirements.txt
 ![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/16780e53-d1d9-4f03-af78-6bbbf57cb613)
 
 ### 下载语音识别模型
-[https://www.aliyundrive.com/s/VTYy4qHothh](https://www.aliyundrive.com/s/VTYy4qHothh)
+阿里云盘：[https://www.aliyundrive.com/s/VTYy4qHothh](https://www.aliyundrive.com/s/VTYy4qHothh)
+百度网盘：[https://pan.baidu.com/s/1XZAxtZ2u4bHpqly0o4p03w?pwd=d6wa](https://pan.baidu.com/s/1XZAxtZ2u4bHpqly0o4p03w?pwd=d6wa) 提取码：d6wa
 
 下载完后把所有ASR\resources文件夹如图所示:
 ![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/292de701-52b3-4fd7-88f4-6ae07ab86baf)
 
 
 ### 下载语音合成模型
-[https://www.aliyundrive.com/s/VTYy4qHothh](https://www.aliyundrive.com/s/PBCXR3XpDZS)
+阿里云盘：[https://www.aliyundrive.com/s/VTYy4qHothh](https://www.aliyundrive.com/s/PBCXR3XpDZS)
+百度网盘：[https://pan.baidu.com/s/1Qy7EQD_14RH8gyDI81Vxtw?pwd=76iv](https://pan.baidu.com/s/1Qy7EQD_14RH8gyDI81Vxtw?pwd=76iv) 提取码：76iv
 
 下载完后把所有文件放入TTS\文件夹如图所示:
 ![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/4aa8918a-0edd-4143-bdc4-ed35208bb2ab)
+
 
 ### 和老婆文字聊天
 
