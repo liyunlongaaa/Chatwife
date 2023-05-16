@@ -37,14 +37,11 @@ python Chatwife.py
 按0或1后回车Enter, 选择你老婆说话的语言
 
 
-![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/bd53922e-eab7-42dc-845d-989878eff2da)
-
+![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/bd53922e-eab7-42dc-845d-989878eff2da) <br>
 之后选择你老婆的人设，我喜欢你老婆是大学生，所以选0后回车
-![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/c363eb45-2da0-47e7-8c8d-2b4b691d4361)
-
+![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/c363eb45-2da0-47e7-8c8d-2b4b691d4361) <br>
 选择你老婆的声线，这里我喜欢御姐
-![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/2dc37303-7d26-4903-a850-26812268ab25)
-
+![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/2dc37303-7d26-4903-a850-26812268ab25) <br>
 之后取个名字或者加载以前的记忆，开始聊天
 ![image](https://github.com/liyunlongaaa/Chatwife/assets/49556860/d8044edd-8944-43d8-9160-14dc67e9cad3)
 
